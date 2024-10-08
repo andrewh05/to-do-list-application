@@ -8,7 +8,7 @@ A simple command-line To-Do List application implemented in Python. This program
 - **Remove Task**: View existing tasks and remove one by specifying its number.
 - **View Tasks**: Display all current tasks in the list.
 - **Exit**: Exit the application gracefully.
-
+ 
 ## Requirements
 
 - Python 3.x
